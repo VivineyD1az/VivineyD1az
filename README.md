@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi there! 👋 I'm Viviney Diaz
 
-<!--
-**VivineyD1az/VivineyD1az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering student at Corporación Universitaria Adventista (UNAC), Colombia.
 
-Here are some ideas to get you started:
+I'm passionate about technology and currently building my skills in **Data Engineering**, while also enjoying backend and mobile application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Systems Engineering Student
+- 📊 Learning Data Engineering
+- 📈 Currently studying Power BI
+- 💻 Interested in Data Engineering, Data Analysis and Backend Development
+- 🌱 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+- Python
+- Java
+- Kotlin
+- JavaScript
+- SQL
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Frontend
+
+- React
+- HTML
+- CSS
+
+### Databases
+
+- PostgreSQL
+- SQL Server
+- SQLite
+- Room
+
+### Mobile
+
+- Android
+- Jetpack Compose
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Visual Studio Code
+- Android Studio
+- Power BI
+
+---
+
+## 📌 Featured Projects
+
+⭐ Inventory and Donations Management System
+
+- React
+- Node.js
+- PostgreSQL
+
+⭐ Android World Cup Sticker Album
+
+- Kotlin
+- Jetpack Compose
+- Room
+- Retrofit
+
+⭐ Human Resources Management API
+
+- Node.js
+- SQL Server
+- AdventureWorks
+
+---
+
+## 📈 Currently Learning
+
+- Data Engineering
+- Data Modeling
+- ETL Processes
+- Power BI
+- Cloud Technologies
+
+---
+
+## 📫 Contact
+
+- 📧 Email: viviney.diazm@unac.edu.co
+- 💼 LinkedIn: www.linkedin.com/in/viviney-diaz-meza-6046a2267
